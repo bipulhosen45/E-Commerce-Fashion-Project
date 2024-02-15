@@ -1,0 +1,51 @@
+Fashion Ecommerce Project Featured list: 
+
+Admin  Panel:- 
+
+
+Admin Dashboard Control
+Admin Password forgot, mail verification, 
+General Setting
+Category ,Subcategory , Child Category Manage
+Brand Manage
+Products Manage
+Coupon Manage
+Discount Manage
+Product Stock Manage
+Mailing System
+Campaign
+Bulk Image Upload
+Yajra datatable  
+Image intervention package   
+Product Review System
+Product Sharing System
+Order Management
+Pickup Point management
+Warehouse Management
+Lifetime product searching system
+Return Product
+Database Backup
+User Role Management
+Payment Gateway
+       -bkash
+       -rocket
+       -nagad
+       -aamarpay
+       -Paypal
+       -Stripe
+       -Cash on delivery
+       -SSL Commerze 
+Buyone get one offer
+
+ User Panel:
+Registration system & Login System
+User Dashboard Control
+User Password forgot, mail verification 
+General Setting
+Cart and Checkout
+Wishlist add
+Review add
+Socialite
+Order process 
+
+   -   
